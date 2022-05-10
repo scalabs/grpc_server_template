@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 PROJECT_ID='<PROJECT_ID>'
 SERVICE_NAME='<SERVICE_NAME>'
 
